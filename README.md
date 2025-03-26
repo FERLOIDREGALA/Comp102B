@@ -13,7 +13,7 @@
     <p>bacon, bacon, bacon, bacon, bacon, bacon</p>
     <p>bacon, bacon, bacon, bacon, bacon, bacon</p>
     
-    </body>
+
 <img class="bacon" src="https://em-content.zobj.net/source/apple/391/bacon_1f953.png">
 <img class="bacon" src="https://em-content.zobj.net/source/apple/391/broccoli_1f966.png">
 
